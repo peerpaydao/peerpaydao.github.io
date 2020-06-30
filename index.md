@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: 科技捍卫财富主权
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    虫洞服务：人民币兑换为美元，并转账到美国帐号，1小时到账！
   action: # action button is optional
-    label: Find Out More
+    label: 发现更多
     url: '#about'
 
 
