@@ -13,36 +13,30 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: 跨境瞬移!
+    text: 虫洞能将复仇者联盟传送到2014的纽约！用虫洞将“资产传送到美国”，小菜一碟！
     actions:
-      - title: Get Started!
+      - title: 马上开始!
         url: '#page-top'
         class: btn-light
 
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: 随时为您服务
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: 突破限额
+        text: 壹万美金起步，不设上限，突破现行限制；技术上质的飞跃：用区块链协议，绕开传统银行的swift协议
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+#        url: https://startbootstrap.com/
+      - title: 绝对安全
+        text: 区块链担保技术资金全程1:1担保，全程透明，全程自助；高效、高性价比
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: 1小时到账
+        text: 一般1小时内，人民币兑换为美元，并转到你美国账户！
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: 费用实惠
+        text: 无汇差（按中行实时汇率），仅4.9%服务费！
         icon: fa-heart
 
   - type: portfolio.html
@@ -50,112 +44,80 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: 留学费用转账
+        text: 留学费用转账.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: 资产配置美元
+        text: 资产配置美元.
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: 美国投资
+        text: 美国投资.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: 美国买房
+        text: 美国买房.
         icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+        url: '#'      
+      - title: 美国买房
+        text: 美国买房.
         icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+        url: '#'      
+      - title: 美国买房
+        text: 美国买房.
         icon: 6.jpg
-        url: '#'
+        url: '#'      
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: 开始免费咨询
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Telegram us!
+        url: https://t.me/PPD_CustomerService
         class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: 发展历程！
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          2018-2019
+          **游戏平台支付通道**
+        text: >-          
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          2020
+          海外资产配置          
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      - image: assets/img/portfolio/thumbnails/3.jpg
+        title: >+
+          2020
+          出国留学汇款          
+        text: >-
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: 联系我们！
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      欢迎通过E-mail或者即时通信软件联系我们！
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: mailto:peerpaydao@protonmail.com
+    - title: Telegram
+      icon: fa-telegram
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
+      url: https://t.me/PPD_CustomerService
+    - title: Signal
+      icon: fa-signal
       icon_type: fab
-      url: '#'
+      url: signal:+13104967078
 
 ---
