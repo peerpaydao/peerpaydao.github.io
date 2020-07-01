@@ -23,7 +23,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: 随时为您服务
+    title: 虫洞服务
     services:
       - title: 突破限额
         text: 壹万美金起步，不设上限，突破现行限制；技术上质的飞跃：用区块链协议，绕开传统银行的swift协议
@@ -38,6 +38,10 @@ sections:
       - title: 费用实惠
         text: 无汇差（按中行实时汇率），仅4.9%服务费！
         icon: fa-heart
+      - title: 了解详情
+        text: 点击以下链接！
+        icon: fa-heart
+        url: /services
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
