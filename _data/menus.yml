@@ -3,15 +3,15 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: 关于
-  url: /#about
-- title: 服务
-  url: /#services
+- title: 首页
+  url: /
+- title: 虫洞服务
+  url: /wormhole
 # - title: 团队
 #  url: /#members
-- title: 历程
-  url: /#timeline
-- title: 联系
-  url: /#contacts
-- title: 方案
-  url: /solutions
+- title: 支付方案
+  url: /payment
+- title: 常见问题
+  url: /faq
+- title: 关于我们
+  url: /intro

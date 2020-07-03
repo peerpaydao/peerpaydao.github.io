@@ -6,7 +6,7 @@ header:
     虫洞服务：人民币兑换为美元，并转账到美国帐号，1小时到账！
   action: # action button is optional
     label: 发现更多
-    url: '#about'
+    url: '/wormhole'
 
 
 sections:

@@ -10,17 +10,17 @@ menus:
     weight: 2
 ---
 
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />服务定义：
+### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 服务定义：
 
 ​			虫洞服务：**人民币兑换为美金，并转账到美国账户，1小时到账！**
 
-<img src="assets/img/wormhole/movie.png" style="zoom: 50%;" />
+![4](assets/img/wormhole/4.png)
 
-​							<img src="assets/img/wormhole/fast.png" style="zoom: 45%;" />	虫洞能将复仇者联盟 传送到2014的纽约；用虫洞将“资产传送到美国” 小菜一碟！
+​							<img src="assets/img/wormhole/fast1.png" style="zoom: 45%;" />	虫洞能将复仇者联盟 传送到2014的纽约；用虫洞将“资产传送到美国” 小菜一碟！
 
 ------
 
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />虫洞服务 案例
+### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 虫洞服务 案例
 
 1. 案例一(留学汇款)：刘先生
 
@@ -39,73 +39,25 @@ menus:
 
    通过虫洞服务：以上两位客户，PPD均在1小时，突破额度限制把人民币兑换为美金，并转账到客户美国账户！
 
-   ​						<img src="assets/img/wormhole/fitto.png" style="zoom:45%;" />     留学费用转账；预防人民币通货膨胀，配置美元资产；美国投资or买房……
+   ​						<img src="assets/img/wormhole/fitto1.png" style="zoom:45%;" />     留学费用转账；预防人民币通货膨胀，配置美元资产；美国投资or买房……
 
    ------
 
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />虫洞服务 四大益处
+### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 虫洞服务 四大益处
 
 <img src="assets/img/wormhole/fourb.png" style="zoom: 60%;" />
 
 ------
 
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />虫洞服务 独到之处
+### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 虫洞服务 独到之处
 
-<img src="assets/img/wormhole/special.png" style="zoom:60%;" />
+<img src="assets/img/wormhole/special1.png" style="zoom:60%;" />
 
-​			这四个独到之处，是为什么PPD可以提供虫洞服务的根本原因！
-
-------
-
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />虫洞服务 常见问题与解答  Q&A
-
-1. **服务预约金、开户服务费都要缴纳美金吗？**
-
-   不用，缴纳等值人民币就可以了；
-
-2. **汇率按什么标准？**
-
-   按中行“现汇卖出价”汇率标准：https://www.bankofchina.com/；
-
-3. **费率可以优惠吗？**
-
-   累积汇款4万，可以返还100美金费用；
-
-4. **美国开户的银行靠谱吗？**
-
-   华美银行是上市公司，70年代创立的；《福布斯》发布的“2020全美百强银行榜”中，该行位居第11名/联邦存款保险；
-
-5. **开户需要哪些资质，国内就可以开吗？**
-
-   只需要身份证就可以，在国内就可以开美国银行的账户；需要人工审核，时间是一天，周六日顺延；
-
-6. **币信担保靠谱吗？**
-
-   担保原理是三方监管账户；转账时间1小时，也就是说担保时间就1小时，时间短风险趋近于零；
-
-7. **为什么用signal不用微信？**
-
-   因为signal是加密的，微信是被监控的，所以为了双方的安全，特意使用signal；
-
-8. **服务预约怎么还收费呢？**
-
-   实际转账后这个费用返还的；是为了保障预约能准时到；尊重双方的时间；
-
-9. **PPD是什么组织？**
-
-   PPD是“点对点支付自治组织”的英文缩写，这是一个基于区块链技术实现去中心化信任的组织。
-
-10. **为什么要提前3/4天预约？**
-
-    一个是准备工作需要时间，例如美国开户/征信查询等；第二个是服务紧俏，需要排队等待。
-
-11. **为什么你们都是匿名的？**
-
-    我们崇尚信任制度而不是个人，全程有资金1:1担保，所以谁服务您都保障服务质量。
+​			这四个独到之处，是为什么PPD可以提供“**虫洞服务**”的根本原因！
 
 ------
 
-### <img src="assets/img/wormhole/logo.png" style="zoom: 33%;" />虫洞服务 办理流程
+### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 虫洞服务 办理流程
 
 | **序号** | **工作名称**      | **工作内容**                                                 |   **耗时**   | **工作成果**                         |
 | -------- | :---------------- | :----------------------------------------------------------- | :----------: | ------------------------------------ |
