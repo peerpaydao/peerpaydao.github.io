@@ -10,16 +10,6 @@ header:
 
 
 sections:
-  - type: call-to-action.html
-    section_id: about
-    background_style: bg-primary
-    title: 跨境瞬移!
-    text: 虫洞能将复仇者联盟传送到2014的纽约！用虫洞将“资产传送到美国”，小菜一碟！
-    actions:
-      - title: 马上开始!
-        url: '#page-top'
-        class: btn-light
-
   - type: services.html
     section_id: services
     #background_style: bg-info
@@ -38,10 +28,20 @@ sections:
       - title: 费用实惠
         text: 无汇差（按中行实时汇率），仅4.9%服务费！
         icon: fa-heart
-      - title: 了解详情
+      - title: 马上开始
         text: 点击以下链接！
         icon: fa-heart
-        url: /services
+        url: /wormhole
+
+  - type: call-to-action.html
+    section_id: about
+    background_style: bg-primary
+    title: 支付方案!
+    text: 通过与PPD的合作，迪拜房产销售商达成了客户及利润倍增的效果！
+    actions:
+      - title: 了解详情!
+        url: '/payment'
+        class: btn-light
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -76,14 +76,6 @@ sections:
         icon: 6.jpg
         url: '#'      
 
-  - type: aside.html
-    section_id: aside
-    title: 开始免费咨询
-    actions:
-      - title: Telegram us!
-        url: https://t.me/PPD_CustomerService
-        class: btn-light
-
   - type: timeline.html
     section_id: timeline
     title: 发展历程！
@@ -105,6 +97,14 @@ sections:
           2020
           出国留学汇款          
         text: >-
+
+  - type: aside.html
+    section_id: aside
+    title: 开始免费咨询
+    actions:
+      - title: Telegram us!
+        url: https://t.me/PPD_CustomerService
+        class: btn-light
 
   - type: contact.html
     section_id: contacts

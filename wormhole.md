@@ -14,9 +14,9 @@ menus:
 
 ​			虫洞服务：**人民币兑换为美金，并转账到美国账户，1小时到账！**
 
-![4](assets/img/wormhole/4.png)
+<img src="assets/img/wormhole/4.png" style="zoom:75%;" />
 
-​							<img src="assets/img/wormhole/fast1.png" style="zoom: 45%;" />	虫洞能将复仇者联盟 传送到2014的纽约；用虫洞将“资产传送到美国” 小菜一碟！
+​							<img src="assets/img/wormhole/fast.png" style="zoom:45%;" />	虫洞能将复仇者联盟 传送到2014的纽约；用虫洞将“资产传送到美国” 小菜一碟！
 
 ------
 
@@ -39,7 +39,7 @@ menus:
 
    通过虫洞服务：以上两位客户，PPD均在1小时，突破额度限制把人民币兑换为美金，并转账到客户美国账户！
 
-   ​						<img src="assets/img/wormhole/fitto1.png" style="zoom:45%;" />     留学费用转账；预防人民币通货膨胀，配置美元资产；美国投资or买房……
+   ​						<img src="assets/img/wormhole/fitto.png" style="zoom:45%;" />     留学费用转账；预防人民币通货膨胀，配置美元资产；美国投资or买房……
 
    ------
 
@@ -51,7 +51,7 @@ menus:
 
 ### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> 虫洞服务 独到之处
 
-<img src="assets/img/wormhole/special1.png" style="zoom:60%;" />
+<img src="assets/img/wormhole/special.png" style="zoom:60%;" />
 
 ​			这四个独到之处，是为什么PPD可以提供“**虫洞服务**”的根本原因！
 

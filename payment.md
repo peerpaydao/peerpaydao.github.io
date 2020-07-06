@@ -16,7 +16,7 @@ menus:
 
 ​		通过与PPD的合作，迪拜房产销售商达成了客户及利润倍增的效果！
 
-<img src="assets/img/wormhole/double.png" alt="倍增效果" style="zoom:80%;" />
+<img src="assets/img/wormhole/double.png" alt="倍增效果" style="zoom:60%;" />
 
 ​		增加一个通道自然客户增加很多，同时提升了交易体验和杜绝了资金风险，这样提升了交易成功率；所以利润倍增！
 
