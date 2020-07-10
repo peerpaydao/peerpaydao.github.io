@@ -91,8 +91,7 @@ sections:
       icon_type: fab
       url: https://t.me/PPD_CustomerService
     - title: Signal
-      icon: fa-signal
-      icon_type: fab
-      url: signal:+13104967078
+      icon: fa-envelope
+      url: signal:+13104967078    
 
 ---
