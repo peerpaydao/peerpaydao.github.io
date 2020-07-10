@@ -5,6 +5,8 @@
 header:
 - title: 首页
   url: /
+- title: 关于我们
+  url: /intro
 - title: 虫洞服务
   url: /wormhole
 # - title: 团队
@@ -13,5 +15,3 @@ header:
   url: /payment
 - title: 常见问题
   url: /faq
-- title: 关于我们
-  url: /intro

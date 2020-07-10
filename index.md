@@ -6,7 +6,7 @@ header:
     虫洞服务：人民币兑换为美元，并转账到美国帐号，1小时到账！
   action: # action button is optional
     label: 发现更多
-    url: '/wormhole'
+    url: '/intro'
 
 
 sections:
@@ -43,60 +43,35 @@ sections:
         url: '/payment'
         class: btn-light
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: 留学费用转账
-        text: 留学费用转账.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: 资产配置美元
-        text: 资产配置美元.
-        icon: 2.jpg
-        url: '#'
-      - title: 美国投资
-        text: 美国投资.
-        icon: 3.jpg
-        url: '#'
-      - title: 美国买房
-        text: 美国买房.
-        icon: 4.jpg
-        url: '#'      
-      - title: 美国买房
-        text: 美国买房.
-        icon: 5.jpg
-        url: '#'      
-      - title: 美国买房
-        text: 美国买房.
-        icon: 6.jpg
-        url: '#'      
-
   - type: timeline.html
     section_id: timeline
-    title: 发展历程！
+    title: 常见问题！
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2018-2019
-          **游戏平台支付通道**
-        text: >-          
+          汇率按什么标准？
+        text: >-  
+          按中行“现汇卖出价”汇率标准：https://www.bankofchina.com/；        
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          2020
-          海外资产配置          
+          开户需要哪些资质，国内就可以开吗？
         text: >-
+          只需要身份证就可以，在国内就可以开美国银行的账户；需要人工审核，时间是一天，周六日顺延；
       - image: assets/img/portfolio/thumbnails/3.jpg
         title: >+
-          2020
-          出国留学汇款          
+          币信担保靠谱吗？        
         text: >-
+          担保原理是三方监管账户；转账时间1小时，也就是说担保时间就1小时，时间短风险趋近于零；      
+
+  - type: aside.html
+    section_id: aside
+    title: 更多问题
+    actions:
+      - title: 常见问题与解答!
+        url: '/faq'
+        class: btn-light
 
   - type: aside.html
     section_id: aside
