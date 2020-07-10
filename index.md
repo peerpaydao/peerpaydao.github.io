@@ -3,7 +3,7 @@ layout: home
 header:
   title: 科技捍卫财富主权
   text: >
-    点付通是聚焦数字货币支付技术的组织。 
+    点付通是聚焦数字货币支付技术的组织。
   action: # action button is optional
     label: PPD简介
     url: '/intro'
@@ -78,6 +78,10 @@ sections:
     title: 联系我们！
     text: >-
       欢迎通过E-mail或者即时通信软件联系我们！
+      E-mail: peerpaydao@protonmail.com,
+      Telegram: @PPD_CustomerService,
+      Signal: +13104967078
+
     actions:
     - title: E-Mail
       icon: fa-envelope
