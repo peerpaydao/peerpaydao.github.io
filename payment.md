@@ -10,7 +10,7 @@ menus:
     weight: 2
 ---
 
-<img src="assets/img/wormhole/realestate.jpg" alt="迪拜房产" style="zoom:20%;" />
+<img src="assets/img/wormhole/realestate.jpg" alt="迪拜房产" style="zoom:10%;" />
 
 ### <img src="assets/img/wormhole/logo2.png" alt="logo2" style="zoom: 5%;" /> PPD“混合通道”效果：客户及利润倍增！
 
