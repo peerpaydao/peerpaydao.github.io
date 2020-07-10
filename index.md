@@ -3,9 +3,9 @@ layout: home
 header:
   title: 科技捍卫财富主权
   text: >
-    虫洞服务：人民币兑换为美元，并转账到美国帐号，1小时到账！
+    点付通是聚焦数字货币支付技术的组织。 
   action: # action button is optional
-    label: 发现更多
+    label: PPD简介
     url: '/intro'
 
 
@@ -71,14 +71,6 @@ sections:
     actions:
       - title: 常见问题与解答!
         url: '/faq'
-        class: btn-light
-
-  - type: aside.html
-    section_id: aside
-    title: 开始免费咨询
-    actions:
-      - title: Telegram us!
-        url: https://t.me/PPD_CustomerService
         class: btn-light
 
   - type: contact.html
